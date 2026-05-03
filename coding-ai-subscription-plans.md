@@ -217,16 +217,27 @@ Tổng hợp các gói subscription AI coding assistants **GIÁ CỐ ĐỊNH** (
 
 ## 9. Windsurf (Codeium)
 
-**Website:** https://codeium.com/
+**Website:** https://windsurf.com/pricing
+
+**Windsurf** - AI IDE by Codeium, unlimited Tab completions.
 
 | Plan | Giá | Đặc điểm |
 |------|-----|----------|
-| **Free** | $0 | Basic features |
-| **Pro** | $15/month | Unlimited SWE-1.5, 13x faster than Sonnet |
-| **Teams** | $35/user/month | Collaboration features |
-| **Enterprise** | Custom | Air-gapped, FedRAMP, EU compliance |
+| **Free** | $0 | Light quota, limited models, unlimited inline edits + Tab completions |
+| **Pro** | $20/month | Increased quotas, frontier OpenAI/Claude/Gemini, Devin Cloud sessions |
+| **Max** | $200/month | Significantly higher quotas (NEW) |
+| **Teams** | $40/user/month | Centralized billing, admin dashboard, priority support |
+| **Enterprise** | Custom | RBAC, SSO, hybrid deployment, dedicated account management |
 
-**Best for:** Value pricing at $15/month, strong compliance
+**Features:**
+- Unlimited Tab completions (all plans)
+- Devin Cloud sessions (Pro+) - background development
+- Cascade AI agent
+- Full model availability (Pro+)
+- API pricing for extra usage (Pro+)
+- Zero data retention (Teams+)
+
+**Best for:** AI-native IDE, strong compliance (FedRAMP, EU)
 
 ---
 
@@ -247,16 +258,26 @@ Tổng hợp các gói subscription AI coding assistants **GIÁ CỐ ĐỊNH** (
 
 ## 11. Cursor
 
-**Website:** https://cursor.sh/
+**Website:** https://cursor.com/pricing
+
+**Cursor** - AI-native IDE, VS Code fork with AI integration.
 
 | Plan | Giá | Đặc điểm |
 |------|-----|----------|
-| **Free** | $0 | Limited features |
-| **Pro** | $20/month | Individual, unlimited usage |
-| **Business** | $40/user/month | Team features |
-| **Enterprise** | Custom | Custom deployment |
+| **Hobby** | Free | Limited Agent requests, limited Tab completions |
+| **Pro** | $20/month | Extended Agent limits, frontier models, MCPs, skills, hooks, cloud agents |
+| **Pro+** | $60/month | 3x usage on all OpenAI, Claude, Gemini models |
+| **Ultra** | $200/month | 20x usage on all models, priority access to new features |
 
-**Best for:** AI-native IDE experience
+**Features:**
+- AI Agent for autonomous coding
+- Tab completions
+- MCP (Model Context Protocol) support
+- Skills and hooks
+- Cloud agents (Pro+)
+- All major LLMs: OpenAI, Claude, Gemini
+
+**Best for:** AI-native IDE experience, VS Code users
 
 ---
 
@@ -279,27 +300,49 @@ Tổng hợp các gói subscription AI coding assistants **GIÁ CỐ ĐỊNH** (
 
 **Website:** https://replit.com/pricing
 
-| Plan | Giá | Đặc điểm |
-|------|-----|----------|
-| **Starter** | Free | Free Agent credits daily |
-| **Replit Core** | $20/month | AI features, more credits |
-| **Teams** | $35-40/user/month | Collaboration tools |
+**Replit** - All-in-one platform: IDE + AI + Hosting + Database.
 
-**Best for:** All-in-one build & deploy platform
+| Plan | Giá | Credits | Đặc điểm |
+|------|-----|---------|----------|
+| **Starter** | Free | Daily Agent credits | Publish 1 app, limited Agent intelligence |
+| **Core** | $20/month | $20 monthly credits | 5 collaborators, unlimited workspaces, autonomous builds |
+| **Pro** | $100/month | $100 monthly credits | 15 collaborators, 50 viewers, powerful models, private deployments |
+| **Enterprise** | Custom | Custom | SSO/SAML, VPC peering, static IPs, dedicated support |
+
+**Features:**
+- AI Agent for autonomous coding
+- Website hosting included
+- Unlimited databases
+- Database restore (Pro: up to 28 days)
+- Remove "Made with Replit" badge (Core+)
+- Private deployments (Pro+)
+- Most powerful models access (Pro)
+
+**Best for:** All-in-one build & deploy platform, team collaboration
 
 ---
 
 ## 14. Bolt.new
 
-**Website:** https://bolt.new/
+**Website:** https://bolt.new/pricing
 
-| Plan | Giá | Đặc điểm |
-|------|-----|----------|
-| **Free** | $0 | ~1M tokens/month |
-| **Pro** | $15-20/month | Web app builder |
-| **Teams** | $40/month | Team features |
+**Bolt.new** - Web app builder with AI, hosting included.
 
-**Best for:** Rapid prototyping, non-developers
+| Plan | Giá | Tokens | Đặc điểm |
+|------|-----|--------|----------|
+| **Free** | $0 | 300K daily, 1M/month | Bolt branding, 10MB upload, hosting |
+| **Pro** | $25/month | 10M/month start, no daily limit | No branding, custom domain, 100MB upload, SEO |
+| **Teams** | $30/user/month | Same as Pro + rollover | Team management, private sharing, NPM registries |
+| **Enterprise** | Custom | Unlimited | SSO, audit logs, 24/7 support, SLAs |
+
+**Features:**
+- Website hosting included (333K-1M web requests)
+- Unlimited databases
+- Unused tokens roll over to next month
+- Image editing with AI (Pro+)
+- No coding required - build web apps from prompts
+
+**Best for:** Rapid prototyping, non-developers, web app building
 
 ---
 
@@ -316,21 +359,64 @@ Tổng hợp các gói subscription AI coding assistants **GIÁ CỐ ĐỊNH** (
 
 ---
 
-## 16. Tabnine
+## 17. Kiro
 
-**Website:** https://www.tabnine.com/pricing/
+**Website:** https://kiro.dev/pricing/
 
-| Plan | Giá | Đặc điểm |
-|------|-----|----------|
-| **Dev** | $9/month | Individual |
-| **Pro** | $39/user/month | Team features |
-| **Enterprise** | $59/user/month | Private deployment, air-gapped |
-
-**Note:** 14-day trial available
+| Plan | Giá | Credits | Đặc điểm |
+|------|-----|---------|----------|
+| **Free** | $0/month | 50 credits | Basic usage |
+| **Pro** | $20/month | 1,000 credits | Pay-per-use overage ($0.04/credit) |
+| **Pro+** | $40/month | 2,000 credits | Pay-per-use overage |
+| **Power** | $200/month | 10,000 credits | Pay-per-use overage |
 
 ---
 
-## 17. JetBrains AI
+## 18. Kimi Code
+
+**Website:** https://www.kimi.com/code
+
+**Kimi** - AI coding assistant by Moonshot AI.
+
+| Plan | Giá | Đặc điểm |
+|------|-----|----------|
+| **Moderato** | $19/month | Weekly refreshed usage, multi-device login |
+| **Allegretto** | $39/month | Ample weekly limits, increased concurrency (Recommended) |
+| **Allegro** | $99/month | Expansive quota, intensive development |
+| **Vivace** | $199/month | Highest weekly quotas, complex projects |
+
+**Models:** Kimi K2.5, Kimi K2.6
+**Features:**
+- Weekly refreshed quotas (not monthly)
+- Multi-device login
+- Share plan across devices
+- Handles large codebases
+
+---
+
+## 19. Tabnine ⚠️ CHỈ ENTERPRISE - KHÔNG CÓ INDIVIDUAL PLAN
+
+**Website:** https://www.tabnine.com/pricing/
+
+**Tabnine không có plan individual rẻ** - chỉ có enterprise/team plans.
+
+| Plan | Giá | Đặc điểm |
+|------|-----|----------|
+| **Code Assistant Platform** | $39/user/month | AI completions + chat, all IDEs, Jira integration |
+| **Agentic Platform** | $59/user/month | Full agentic + CLI + Context Engine |
+
+**Features:**
+- Flexible deployment: SaaS, VPC, on-premises, air-gapped
+- Zero code retention, total privacy
+- GDPR, SOC 2, ISO 27001 compliance
+- Unlimited usage with BYOK (your own LLM)
+- MCP support for tools integration
+
+**Note:** No individual plan available. Minimum $39/user/month for teams.
+
+---
+
+## 20. JetBrains AI
 
 **Website:** https://www.jetbrains.com/ai-ides/buy/
 
@@ -339,14 +425,37 @@ Contact for pricing details.
 
 ---
 
-## 18. Google Gemini Code Assist
+## 21. Google Gemini (AI Pro/Ultra)
 
-**Website:** https://codeassist.google/
+**Website:** https://gemini.google.com/
 
-| Plan | Giá | Đặc điểm |
-|------|-----|----------|
-| **Free** | Via Google Developer Program | Limited |
-| **Premium** | $299/year (~$25/month) | Full access |
+**Gemini Code Assist** được included trong Google AI Pro và Ultra.
+
+| Plan | Giá (VN) | Giá (~USD) | Gemini Code Assist |
+|------|----------|------------|-------------------|
+| **Free** | ₫0 | $0 | Limited daily requests |
+| **Google AI Plus** | ₫132.000/tháng | ~$5.5/month | Enhanced access |
+| **Google AI Pro** | ₫489.000/tháng | ~$20/month | Higher daily limits + Gemini CLI |
+| **Google AI Ultra** | ₫6.000.000/tháng | ~$250/month | Highest limits + YouTube Premium |
+
+**Models:**
+- Gemini 3 Flash (Free)
+- Gemini 3.1 Pro (all tiers)
+- Deep Think (Ultra only)
+- Veo 3.1 video generation
+
+**Features:**
+- Gemini Code Assist IDE extension
+- Gemini CLI (terminal)
+- Deep Research
+- Gemini Live, Canvas
+- NotebookLM (research assistant)
+- Flow (AI video tool)
+- Google Antigravity (agent platform - Pro/Ultra)
+- Gemini in Gmail, Docs, Vids
+- Storage: 15GB → 200GB → 5TB → 30TB
+
+**Note:** Gemini Code Assist limits increase with tier level
 
 ---
 
@@ -355,32 +464,49 @@ Contact for pricing details.
 | # | Provider | Plan Giá Rẻ Nhất | Giá | Credits/Features |
 |---|----------|-------------------|-----|------------------|
 | 1 | **MiMo** | Starter | $5.28/month | 60M credits, 8 models |
-| 2 | **OpenCode Go** | Go | $10/month | 15+ models |
-| 3 | **BytePlus ModelArk** | Lite | $10/month | 3x Claude Pro, 6 models |
-| 4 | **MiniMax Agent** | Basic | ~$10/month | Coding, writing, search |
-| 5 | **GitHub Copilot** | Pro | $10/month | $10 AI credits |
-| 6 | **Tabnine** | Dev | $9/month | Individual |
-| 7 | **Windsurf** | Pro | $15/month | Unlimited SWE-1.5 |
-| 8 | **Bolt.new** | Pro | $15-20/month | Web app builder |
-| 9 | **Z.AI** | Lite | $18/month | 3x Claude Pro usage |
-| 10 | **Verdent AI** | Starter | $19/month | 480 credits, 5 top models |
-| 11 | **Amazon Q** | Pro | $19/user/month | AWS integration |
-| 12 | **Cursor** | Pro | $20/month | Unlimited usage |
-| 13 | **Claude Code** | Pro | $20/month | Regular work |
-| 14 | **OpenAI Codex** | ChatGPT Plus | $20/month | Standard Codex |
-| 15 | **Replit** | Core | $20/month | All-in-one platform |
-| 16 | **MiniMax Agent** | Pro | ~$30/month | Full features |
-| 17 | **MiniMax Agent** | Ultra | ~$60/month | Unlimited tasks |
-| 18 | **Alibaba Cloud** | Pro | $50/month | 90,000 requests/month |
-| 19 | **BytePlus** | Pro | $50/month | 5x Lite, ArkClaw |
-| 20 | **Verdent AI** | Pro | $59/month | 1,500 credits |
-| 21 | **Z.AI** | Pro | $72/month | 5x Lite usage |
-| 22 | **MiMo** | Max | $88/month | 1,600M credits |
-| 23 | **OpenAI Codex** | ChatGPT Pro | $100/month | 5x Plus Codex |
-| 24 | **Claude Code** | Max | $100-200/month | Heavy usage |
-| 25 | **Z.AI** | Max | $160/month | 20x Lite usage |
-| 26 | **Verdent AI** | Max | $179/month | 4,500 credits |
-| 27 | **OpenAI Codex** | ChatGPT Pro Full | $200/month | 20x Plus Codex |
+| 2 | **Google AI Plus** | Plus | ~$5.5/month | Gemini Code Assist basic |
+| 3 | **OpenCode Go** | Go | $10/month | 15+ models |
+| 4 | **BytePlus ModelArk** | Lite | $10/month | 3x Claude Pro, 6 models |
+| 5 | **MiniMax Agent** | Basic | ~$10/month | Coding, writing, search |
+| 6 | **GitHub Copilot** | Pro | $10/month | $10 AI credits |
+| 7 | **Z.AI** | Lite | $18/month | 3x Claude Pro usage |
+| 8 | **Kimi Code** | Moderato | $19/month | Weekly refreshed usage |
+| 9 | **Verdent AI** | Starter | $19/month | 480 credits, 5 top models |
+| 10 | **Amazon Q** | Pro | $19/user/month | AWS integration |
+| 11 | **Windsurf** | Pro | $20/month | Frontier models, Devin Cloud |
+| 12 | **Kiro** | Pro | $20/month | 1,000 credits |
+| 13 | **Cursor** | Pro | $20/month | Extended Agent limits |
+| 14 | **Claude Code** | Pro | $20/month | Regular work |
+| 15 | **OpenAI Codex** | ChatGPT Plus | $20/month | Standard Codex |
+| 16 | **Replit** | Core | $20/month | $20 credits, 5 collaborators |
+| 17 | **Google AI Pro** | Pro | ~$20/month | Higher Code Assist + CLI |
+| 18 | **Bolt.new** | Pro | $25/month | 10M tokens, hosting |
+| 19 | **MiniMax Agent** | Pro | ~$30/month | Full features |
+| 20 | **Bolt.new** | Teams | $30/user/month | Team management |
+| 21 | **Kiro** | Pro+ | $40/month | 2,000 credits |
+| 22 | **Kimi Code** | Allegretto | $39/month | Ample weekly limits |
+| 23 | **Tabnine** | Code Assistant | $39/user/month | Enterprise only |
+| 24 | **Windsurf** | Teams | $40/user/month | Admin dashboard |
+| 25 | **Alibaba Cloud** | Pro | $50/month | 90,000 requests/month |
+| 26 | **BytePlus** | Pro | $50/month | 5x Lite, ArkClaw |
+| 27 | **Tabnine** | Agentic | $59/user/month | Full agentic + CLI |
+| 28 | **Verdent AI** | Pro | $59/month | 1,500 credits |
+| 29 | **Cursor** | Pro+ | $60/month | 3x usage on all models |
+| 30 | **MiniMax Agent** | Ultra | ~$60/month | Unlimited tasks |
+| 31 | **Z.AI** | Pro | $72/month | 5x Lite usage |
+| 32 | **MiMo** | Max | $88/month | 1,600M credits |
+| 33 | **Kimi Code** | Allegro | $99/month | Expansive quota |
+| 34 | **OpenAI Codex** | ChatGPT Pro | $100/month | 5x Plus Codex |
+| 35 | **Replit** | Pro | $100/month | $100 credits, 15 collaborators |
+| 36 | **Claude Code** | Max | $100-200/month | Heavy usage |
+| 37 | **Z.AI** | Max | $160/month | 20x Lite usage |
+| 38 | **Verdent AI** | Max | $179/month | 4,500 credits |
+| 39 | **Kimi Code** | Vivace | $199/month | Highest weekly quotas |
+| 40 | **OpenAI Codex** | ChatGPT Pro Full | $200/month | 20x Plus Codex |
+| 41 | **Kiro** | Power | $200/month | 10,000 credits |
+| 42 | **Windsurf** | Max | $200/month | Higher quotas |
+| 43 | **Cursor** | Ultra | $200/month | 20x usage on all models |
+| 44 | **Google AI Ultra** | Ultra | ~$250/month | Highest limits + YouTube Premium |
 
 ---
 
@@ -388,12 +514,13 @@ Contact for pricing details.
 
 | Budget | Khuyến Nghị | Lý Do |
 |--------|-------------|-------|
-| **<$10/month** | MiMo Starter ($5.28), Tabnine Dev ($9) | Giá rẻ nhất |
+| **<$10/month** | MiMo Starter ($5.28), Google AI Plus (~$5.5) | Giá rẻ nhất |
 | **$10/month** | OpenCode Go, BytePlus Lite, MiniMax Basic, GitHub Copilot Pro | Best value, nhiều models |
-| **$15-20/month** | Windsurf Pro ($15), Bolt.new, Verdent Starter ($19), Cursor/Claude/ChatGPT Plus ($20) | Popular choices |
-| **$20-50/month** | Z.AI Lite ($18), Replit Core ($20), Amazon Q ($19), MiniMax Pro ($30) | Mid-tier features |
-| **$50-100/month** | Alibaba Pro ($50), BytePlus Pro ($50), Verdent Pro ($59), MiniMax Ultra ($60), MiMo Pro ($44-50), Z.AI Pro ($72) | Heavy usage |
-| **$100+/month** | MiMo Max ($88), ChatGPT Pro ($100), Claude Max ($100-200), Z.AI Max ($160), Verdent Max ($179), ChatGPT Pro Full ($200) | Professional/Enterprise |
+| **$15-25/month** | Windsurf Pro ($20), Kiro Pro ($20), Cursor/Claude/ChatGPT Plus/Google AI Pro ($20), Kimi Moderato ($19), Bolt.new Pro ($25) | Popular choices |
+| **$30-60/month** | MiniMax Pro (~$30), Bolt Teams ($30), Kiro Pro+ ($40), Kimi Allegretto ($39), Windsurf Teams ($40), Verdent Pro ($59), Cursor Pro+ ($60), MiniMax Ultra (~$60) | Mid-tier + Enterprise features |
+| **$39-60/month** | Tabnine Code Assistant ($39), Alibaba Pro ($50), BytePlus Pro ($50), Verdent Pro ($59), Tabnine Agentic ($59), MiniMax Ultra ($60) | Enterprise/Heavy usage |
+| **$50-100/month** | MiMo Pro ($44-50), Z.AI Pro ($72), MiMo Max ($88) | Heavy usage |
+| **$100+/month** | ChatGPT Pro ($100), Claude Max ($100-200), Z.AI Max ($160), Verdent Max ($179), ChatGPT Pro Full ($200), Google AI Ultra (~$250) | Professional/Enterprise |
 
 ---
 
@@ -410,15 +537,17 @@ Contact for pricing details.
 - [Codex Rate Card](https://help.openai.com/en/articles/20001106-codex-rate-card)
 - [Z.AI Subscription](https://z.ai/subscribe)
 - [GitHub Copilot Pricing](https://github.com/features/copilot/plans)
-- [Windsurf](https://codeium.com/)
-- [Cursor Pricing](https://cursor.sh/)
+- [Windsurf Pricing](https://windsurf.com/pricing)
+- [Cursor Pricing](https://cursor.com/pricing)
 - [Claude Pricing](https://claude.com/pricing)
 - [Replit Pricing](https://replit.com/pricing)
-- [Bolt.new](https://bolt.new/)
+- [Bolt.new Pricing](https://bolt.new/pricing)
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/)
 - [Tabnine Pricing](https://www.tabnine.com/pricing/)
+- [Kiro Pricing](https://kiro.dev/pricing/)
+- [Kimi Code Pricing](https://www.kimi.com/code)
 - [JetBrains AI](https://www.jetbrains.com/ai-ides/buy/)
-- [Gemini Code Assist](https://codeassist.google/)
+- [Gemini Pricing](https://gemini.google.com/)
 
 ---
 
