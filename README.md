@@ -526,7 +526,7 @@ Contact for pricing details.
 
 ## Sources
 
-- [MiMo Token Plan](https://mimo.mi.com/)
+- [MiMo Token Plan](https://platform.xiaomimimo.com/token-plan)
 - [OpenCode Go](https://opencode.ai/go)
 - [MiniMax Agent Pricing](https://agent.minimax.io/pricing)
 - [BytePlus ModelArk Coding Plan](https://www.byteplus.com/en/activity/codingplan)
