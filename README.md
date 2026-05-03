@@ -517,7 +517,7 @@ Contact for pricing details.
 | **<$10/month** | MiMo Starter ($5.28), Google AI Plus (~$5.5) | Giá rẻ nhất |
 | **$10/month** | OpenCode Go, BytePlus Lite, MiniMax Basic, GitHub Copilot Pro | Best value, nhiều models |
 | **$15-25/month** | Windsurf Pro ($20), Kiro Pro ($20), Cursor/Claude/ChatGPT Plus/Google AI Pro ($20), Kimi Moderato ($19), Bolt.new Pro ($25) | Popular choices |
-| **$30-60/month** | MiniMax Pro (~$30), Bolt Teams ($30), Kiro Pro+ ($40), Kimi Allegretto ($39), Windsurf Teams ($40), Verdent Pro ($59), Cursor Pro+ ($60), MiniMax Ultra (~$60) | Mid-tier + Enterprise features |
+| **$30-60/month** | MiniMax Pro ($30), Bolt Teams ($30), Kiro Pro+ ($40), Kimi Allegretto ($39), Windsurf Teams ($40), Verdent Pro ($59), Cursor Pro+ ($60), MiniMax Ultra ($60) | Mid-tier + Enterprise features |
 | **$39-60/month** | Tabnine Code Assistant ($39), Alibaba Pro ($50), BytePlus Pro ($50), Verdent Pro ($59), Tabnine Agentic ($59), MiniMax Ultra ($60) | Enterprise/Heavy usage |
 | **$50-100/month** | MiMo Pro ($44-50), Z.AI Pro ($72), MiMo Max ($88) | Heavy usage |
 | **$100+/month** | ChatGPT Pro ($100), Claude Max ($100-200), Z.AI Max ($160), Verdent Max ($179), ChatGPT Pro Full ($200), Google AI Ultra (~$250) | Professional/Enterprise |
