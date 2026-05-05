@@ -524,6 +524,44 @@ Contact for pricing details.
 
 ---
 
+## Trải Nghiệm Sử Dụng (User Reviews)
+
+### OpenCode Go - Trải nghiệm thực tế (May 2026)
+
+**Gói:** Go Plan ($5 first month → $10/month)
+
+**Usage Stats sau 1 ngày sử dụng:**
+| Metric | Usage | Reset Time |
+|--------|-------|------------|
+| Rolling Usage | 91% ⚠️ | 1.5 hours |
+| Weekly Usage | 55% | 5 days 12 hours |
+| Monthly Usage | 27% | 30 days 15 hours |
+
+**Nhận xét:**
+- ⚠️ **Rolling Usage tiêu hao cực nhanh** - 91% trong chỉ 1 ngày
+- ⚠️ **Weekly Usage 55% sau 1 ngày** → dự kiến **hết trong ~2 ngày** coding
+- Monthly Usage 27% → có thể kéo dài hơn nhưng vẫn cao
+- Mỗi tool call (Read, Edit, Bash, search...) đều tính vào usage
+- Reading large files và long conversations consume nhiều usage
+
+**⚠️ CẢNH BÁO:** OpenCode Go không phù hợp cho:
+- Coding sessions dài (>2-3 giờ/ngày)
+- Projects lớn với nhiều file
+- Heavy debugging/refactoring
+
+**Nên dùng khi:**
+- Quick questions, short tasks
+- Small projects
+- Light coding sessions (<1 giờ)
+
+**Tips tiết kiệm usage:**
+- Dùng `/compact` để compress conversation
+- Hạn chế đọc file không cần thiết
+- Tránh spawn nhiều agents song song
+- Xem xét dùng model nhỏ hơn cho task đơn giản
+
+---
+
 ## Sources
 
 - [MiMo Token Plan](https://platform.xiaomimimo.com/token-plan)
