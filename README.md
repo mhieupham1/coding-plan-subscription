@@ -530,29 +530,27 @@ Contact for pricing details.
 
 **Gói:** Go Plan ($5 first month → $10/month)
 
-**Usage Stats sau 1 ngày sử dụng:**
+**Usage Stats sau ~6 giờ coding:**
 | Metric | Usage | Reset Time |
 |--------|-------|------------|
 | Rolling Usage | 91% ⚠️ | 1.5 hours |
 | Weekly Usage | 55% | 5 days 12 hours |
 | Monthly Usage | 27% | 30 days 15 hours |
 
-**Nhận xét:**
-- ⚠️ **Rolling Usage tiêu hao cực nhanh** - 91% trong chỉ 1 ngày
-- ⚠️ **Weekly Usage 55% sau 1 ngày** → dự kiến **hết trong ~2 ngày** coding
-- Monthly Usage 27% → có thể kéo dài hơn nhưng vẫn cao
-- Mỗi tool call (Read, Edit, Bash, search...) đều tính vào usage
-- Reading large files và long conversations consume nhiều usage
+**Tính toán dự kiến:**
+- Rolling: 91% / 6h ≈ **15% per hour** → ~6.5 giờ sẽ hit 100%
+- Weekly: 55% / 6h ≈ **9% per hour** → ~11 giờ coding sẽ hết weekly
+- Monthly: 27% / 6h ≈ **4.5% per hour** → ~22 giờ coding sẽ hết monthly
 
-**⚠️ CẢNH BÁO:** OpenCode Go không phù hợp cho:
+**⚠️ Kết luận:**
+- **~11 giờ coding/tuần** = hết Weekly Usage
+- **~22 giờ coding/tháng** = hết Monthly Usage
+- Với 6 giờ/ngày → **hết weekly sau ~2 ngày**, hết monthly sau ~3-4 ngày
+
+**⚠️ CẢNH BÁO:** OpenCode Go ($10/month) không phù hợp cho:
 - Coding sessions dài (>2-3 giờ/ngày)
 - Projects lớn với nhiều file
 - Heavy debugging/refactoring
-
-**Nên dùng khi:**
-- Quick questions, short tasks
-- Small projects
-- Light coding sessions (<1 giờ)
 
 **Tips tiết kiệm usage:**
 - Dùng `/compact` để compress conversation
